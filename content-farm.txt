@@ -1,6 +1,7 @@
 *://*.kknews.cc/*
 *://*.machbbs.com/*
 *://yq.aliyun.com/*
+*://developer.aliyun.com/article/*
 *://*.bluezerg.com/*
 *://*.shuzhiduo.com/*
 *://*.itread01.com/*
@@ -26,7 +27,7 @@ http://47.105.149.100/*
 *://passion-meeting.site/*
 *://*.lizenghai.com/*
 *://*.songjian.site/*
-*://*.codertw.tw/*
+*://*.codertw.com/*
 *://*.designarch.cz/*
 *://*.codercto.com/*
 *://*.w3xue.com/*
