@@ -73,3 +73,6 @@ http://47.105.149.100/*
 *://*.ancii.com/*
 *://*.jquerycn.cn/*
 *://*.tuicool.com/*
+*://*.divcss5.com/*
+*://*.stackoverrun.com/*
+
