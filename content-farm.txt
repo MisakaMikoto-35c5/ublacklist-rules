@@ -75,7 +75,7 @@ http://47.105.149.100/*
 *://*.tuicool.com/*
 *://*.divcss5.com/*
 *://*.stackoverrun.com/*
-*://cloud.tencent.com/developer/ask/*
+*://cloud.tencent.com/developer/*
 *://*.thinbug.com/*
 *://*.javascriptc.com/*
 *://*.uucan.cn/*
@@ -113,4 +113,4 @@ http://47.105.149.100/*
 *://*.ixianzong.com/*
 *://*.guanf.com/*
 *://*.ping-jia.net/*
-*://*.21ic.com/*
+*://*.xp.cn/*
