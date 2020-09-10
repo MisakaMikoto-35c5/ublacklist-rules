@@ -114,3 +114,5 @@ http://47.105.149.100/*
 *://*.guanf.com/*
 *://*.ping-jia.net/*
 *://*.xp.cn/*
+*://*.chainnews.com/*
+*://*.jishuwen.com/*
