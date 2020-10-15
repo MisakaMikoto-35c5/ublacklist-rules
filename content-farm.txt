@@ -122,3 +122,8 @@ http://47.105.149.100/*
 *://*.wandouip.com/*
 *://*.zzvips.com/*
 *://*.mlog.club/article/*
+*://*.routinepanic.com/*
+*://*.qastack.cn/*
+*://*.hellojava.com/*
+*://*.365jz.com/article/*
+*://*.debug8.com/*
