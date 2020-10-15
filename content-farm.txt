@@ -116,3 +116,8 @@ http://47.105.149.100/*
 *://*.xp.cn/*
 *://*.chainnews.com/*
 *://*.jishuwen.com/*
+*://*.dingyuan9999.com/*
+*://*.only1server.com/*
+*://*.itnewes.com/*
+*://*.wandouip.com/*
+*://*.zzvips.com/*
