@@ -121,3 +121,4 @@ http://47.105.149.100/*
 *://*.itnewes.com/*
 *://*.wandouip.com/*
 *://*.zzvips.com/*
+*://*.mlog.club/article/*
