@@ -129,3 +129,14 @@ http://47.105.149.100/*
 *://*.debug8.com/*
 *://*.csdn.net/gather_*
 *://*.mmbyte.com/*
+*://*.iditect.com/how-to/
+*://*.it1352.com/*
+*://*.xiaolee.net/*
+*://*.tfzx.net/*
+*://*.issue.life/*
+*://*.jtdz-solenoids.com/*
+*://*.366service.com/*
+*://*.xbuba.com/*
+*://*.thetopsites.net/*
+*://*.programmersought.com/*
+*://*.develop-bugs.com/*
