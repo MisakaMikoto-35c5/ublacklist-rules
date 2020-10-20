@@ -128,3 +128,4 @@ http://47.105.149.100/*
 *://*.365jz.com/article/*
 *://*.debug8.com/*
 *://*.csdn.net/gather_*
+*://*.mmbyte.com/*
