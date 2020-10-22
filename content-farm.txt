@@ -140,3 +140,6 @@ http://47.105.149.100/*
 *://*.thetopsites.net/*
 *://*.programmersought.com/*
 *://*.develop-bugs.com/*
+*://*.cab22.com/*
+*://*.xinhexinli.com/*
+*://*.ghxlq.me/*
