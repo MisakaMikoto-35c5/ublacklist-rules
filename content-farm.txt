@@ -2,6 +2,8 @@
 *://*.machbbs.com/*
 *://yq.aliyun.com/*
 *://developer.aliyun.com/article/*
+*://support.huaweicloud.com/topic/*
+*://*.aliyun.com/sswd/*
 *://*.bluezerg.com/*
 *://*.shuzhiduo.com/*
 *://*.itread01.com/*
@@ -143,3 +145,5 @@ http://47.105.149.100/*
 *://*.cab22.com/*
 *://*.xinhexinli.com/*
 *://*.ghxlq.me/*
+*://*.qedev.com/*
+*://*.4ui.cn/*
