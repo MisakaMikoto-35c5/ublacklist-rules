@@ -131,7 +131,7 @@ http://47.105.149.100/*
 *://*.debug8.com/*
 *://*.csdn.net/gather_*
 *://*.mmbyte.com/*
-*://*.iditect.com/how-to/
+*://*.iditect.com/how-to/*
 *://*.it1352.com/*
 *://*.xiaolee.net/*
 *://*.tfzx.net/*
@@ -150,4 +150,4 @@ http://47.105.149.100/*
 *://*.nbyoho.com/*
 *://*.win10xiazai.com/*
 *://*.copyan.com/*
-*://*.baidu.com/search?*
+*://zhidao.baidu.com/search?*
