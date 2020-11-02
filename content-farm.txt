@@ -147,3 +147,7 @@ http://47.105.149.100/*
 *://*.ghxlq.me/*
 *://*.qedev.com/*
 *://*.4ui.cn/*
+*://*.nbyoho.com/*
+*://*.win10xiazai.com/*
+*://*.copyan.com/*
+*://*.baidu.com/search?*
