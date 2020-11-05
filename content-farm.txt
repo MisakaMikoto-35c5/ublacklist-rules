@@ -151,3 +151,16 @@ http://47.105.149.100/*
 *://*.win10xiazai.com/*
 *://*.copyan.com/*
 *://zhidao.baidu.com/search?*
+*://*.vvzixun.com/*
+*://*.uonfu.com/*
+*://*.1r1g.com/*
+*://*.python5.com/*
+*://*.e-learn.cn/*
+*://*.living-sun.com/*
+*://*.coderoad.ru/*
+*://*.coredump.biz/*
+*://*.fivver.site/*
+*://*.overcoder.net/*
+*://*.dokry.com/*
+*://*.stackanswers.net/*
+*://*.developreference.com/*
