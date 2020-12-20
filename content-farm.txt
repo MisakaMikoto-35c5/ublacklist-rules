@@ -164,3 +164,10 @@ http://47.105.149.100/*
 *://*.dokry.com/*
 *://*.stackanswers.net/*
 *://*.developreference.com/*
+*://*.webplus.org.cn/*
+*://*.songkran2015.com/*
+*://*.lzbxgmjj.com/*
+*://*.meipiao.me/*
+*://*.qu02.com/*
+*://*.z3z4.com/*
+*://*.dllipin.com/*
