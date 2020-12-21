@@ -2,8 +2,10 @@
 *://*.machbbs.com/*
 *://yq.aliyun.com/*
 *://developer.aliyun.com/article/*
-*://support.huaweicloud.com/topic/*
 *://*.aliyun.com/sswd/*
+*://*.huaweicloud.com/topic/*
+*://*.huaweicloud.com/theme/*
+*://cloud.tencent.com/developer/*
 *://*.bluezerg.com/*
 *://*.shuzhiduo.com/*
 *://*.itread01.com/*
@@ -77,7 +79,6 @@ http://47.105.149.100/*
 *://*.tuicool.com/*
 *://*.divcss5.com/*
 *://*.stackoverrun.com/*
-*://cloud.tencent.com/developer/*
 *://*.thinbug.com/*
 *://*.javascriptc.com/*
 *://*.uucan.cn/*
@@ -171,3 +172,9 @@ http://47.105.149.100/*
 *://*.qu02.com/*
 *://*.z3z4.com/*
 *://*.dllipin.com/*
+*://*.51dongshi.com/*
+*://*.shxy888.com/*
+*://*.dxdlw.com/*
+*://*.23cpc.com/*
+*://*.zhizhizhi.com/*
+*://*.isky.ltd/*
