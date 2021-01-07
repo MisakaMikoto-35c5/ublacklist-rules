@@ -1,3 +1,4 @@
 *://bugjia.net/*
 *://www.cnblogs.com/Marydon20170307/*
 *://segmentfault.com/*
+*://*.whatismybrowser.com/*
