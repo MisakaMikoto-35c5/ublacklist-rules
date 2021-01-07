@@ -178,3 +178,5 @@ http://47.105.149.100/*
 *://*.23cpc.com/*
 *://*.zhizhizhi.com/*
 *://*.isky.ltd/*
+*://*.uniquelovephotography.com/*
+*://*.mdeditor.tw/*
