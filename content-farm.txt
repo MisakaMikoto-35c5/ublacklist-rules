@@ -6,6 +6,7 @@
 *://*.huaweicloud.com/topic/*
 *://*.huaweicloud.com/theme/*
 *://cloud.tencent.com/developer/*
+*://zhidao.baidu.com/index/?word=*
 *://*.bluezerg.com/*
 *://*.shuzhiduo.com/*
 *://*.itread01.com/*
@@ -180,3 +181,8 @@ http://47.105.149.100/*
 *://*.isky.ltd/*
 *://*.uniquelovephotography.com/*
 *://*.mdeditor.tw/*
+*://*.qq-name.cn/*
+*://*.kissbaidu.com/*
+*://*.manhua123.cn/*
+*://*.dogfight360.com/*
+*://*.daydaynews.cc/*
