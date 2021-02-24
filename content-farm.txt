@@ -186,3 +186,8 @@ http://47.105.149.100/*
 *://*.manhua123.cn/*
 *://*.dogfight360.com/*
 *://*.daydaynews.cc/*
+*://*.manongdao.com/*
+*://*.bountysource.com/issues/*
+*://*.codedefault.com/*
+*://*.stackoverfill.com/*
+*://*.newlifeclan.com/*
