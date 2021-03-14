@@ -5,6 +5,7 @@
 *://*.aliyun.com/sswd/*
 *://*.huaweicloud.com/topic/*
 *://*.huaweicloud.com/theme/*
+*://www.huaweicloud.com/articles/topic_*
 *://cloud.tencent.com/developer/*
 *://zhidao.baidu.com/index/?word=*
 *://*.bluezerg.com/*
