@@ -1,1 +1,2 @@
 *://*.pugetsystems.com/*
+*://*.curseforge.com/*
