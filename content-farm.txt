@@ -192,3 +192,4 @@ http://47.105.149.100/*
 *://*.codedefault.com/*
 *://*.stackoverfill.com/*
 *://*.newlifeclan.com/*
+*://*.shawnmackay.me/*
