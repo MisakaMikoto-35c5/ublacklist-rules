@@ -1,3 +1,4 @@
 *://*.pugetsystems.com/*
 *://*.curseforge.com/*
 *://*.askvg.com/*
+*://*.guidedhacking.com/*
