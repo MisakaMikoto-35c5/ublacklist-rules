@@ -3,8 +3,12 @@
 *://yq.aliyun.com/*
 *://developer.aliyun.com/article/*
 *://*.aliyun.com/sswd/*
+*://www.aliyun.com/ysc/*
 *://*.huaweicloud.com/topic/*
 *://*.huaweicloud.com/theme/*
+
+# 下面这条规则不确定是否包含正常文章
+*://www.huaweicloud.com/articles/*
 *://www.huaweicloud.com/articles/topic_*
 *://cloud.tencent.com/developer/*
 *://zhidao.baidu.com/index/?word=*
@@ -193,3 +197,6 @@ http://47.105.149.100/*
 *://*.stackoverfill.com/*
 *://*.newlifeclan.com/*
 *://*.shawnmackay.me/*
+*://www.ma173.com/*
+*://www.manyanu.com/*
+*://www.hmldds.com/*
