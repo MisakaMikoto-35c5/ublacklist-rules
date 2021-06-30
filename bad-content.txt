@@ -3,3 +3,4 @@
 *://segmentfault.com/*
 *://*.whatismybrowser.com/*
 *://vircloud.net/*
+*://www.elecfans.com/*
