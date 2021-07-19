@@ -33,7 +33,6 @@
 *://*.shangdixinxi.com/*
 *://*.lagou.com/*
 *://*.594cto.com/*
-http://47.105.149.100/*
 *://passion-meeting.site/*
 *://*.lizenghai.com/*
 *://*.songjian.site/*
@@ -189,7 +188,6 @@ http://47.105.149.100/*
 *://*.qq-name.cn/*
 *://*.kissbaidu.com/*
 *://*.manhua123.cn/*
-*://*.dogfight360.com/*
 *://*.daydaynews.cc/*
 *://*.manongdao.com/*
 *://*.bountysource.com/issues/*
