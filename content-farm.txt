@@ -202,3 +202,16 @@
 *://www.taodudu.cc/*
 *://githubmemory.com/*
 *://search.zonealarm.com/*
+*://*.cxymm.net/*
+*://*.pythonmana.com/*
+*://*.py3study.com/*
+*://*.systonsoft.com/*
+*://www.uxahz.com/*
+*://*.some-itech.com/*
+*://*.javashuo.com/*
+*://*.mamaza.com/*
+*://*.pcgamerbike.com/*
+*://*.deiniu.com/*
+*://*.136.la/*
+*://*.dropsoft.net/*
+*://*.qb5200.com/*
