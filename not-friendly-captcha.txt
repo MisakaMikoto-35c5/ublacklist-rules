@@ -2,3 +2,4 @@
 *://*.curseforge.com/*
 *://*.askvg.com/*
 *://*.guidedhacking.com/*
+*://*.everymac.com/*
