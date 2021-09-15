@@ -33,6 +33,7 @@
 *://*.shangdixinxi.com/*
 *://*.lagou.com/*
 *://*.594cto.com/*
+*://*.github-wiki-see.page/*
 *://passion-meeting.site/*
 *://*.lizenghai.com/*
 *://*.songjian.site/*
