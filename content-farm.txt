@@ -257,3 +257,16 @@
 *://*.chatitu.com/*
 *://www.yingtwo.com/article/*
 *://*.metal-wire.net/*
+
+# 2022-01-10 batch 2
+*://*.dayuansouti.com/*
+*://*.zykexie.net/*
+*://*.zzzxqyfwpt.com/*
+*://*.wlxgy.com/*
+*://*.its201.com/*
+*://*.qianshoutiku.com/*
+*://*.lanmeitiku.com/*
+*://*.jimtiku.com/*
+*://*.doczj.com/*
+*://*.ghcc.net/*
+*://*.it610.com/*
