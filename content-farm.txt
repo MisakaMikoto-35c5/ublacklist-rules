@@ -299,3 +299,9 @@
 *://*.0518zz.cn/*
 *://*.lkmgr.com/*
 *://*.ruankaoti.com/*
+
+# 2022-02-10
+*://*.manongjc.com/*
+*://*.programminghunter.com/*
+*://*.gushiciku.cn/*
+*://*.freesion.com/*
