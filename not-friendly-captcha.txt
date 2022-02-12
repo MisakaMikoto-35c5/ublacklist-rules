@@ -3,3 +3,4 @@
 *://*.askvg.com/*
 *://*.guidedhacking.com/*
 *://*.everymac.com/*
+*://*.fextralife.com/*
