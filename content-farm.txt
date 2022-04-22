@@ -17,6 +17,7 @@
 *://*.bluezerg.com/*
 *://*.shuzhiduo.com/*
 *://*.itread01.com/*
+*://*.read01.com/*
 *://*.codenong.com/*
 *://*.twblogs.net/*
 *://*.shangmayuan.com/*
@@ -160,6 +161,7 @@
 *://*.win10xiazai.com/*
 *://*.copyan.com/*
 *://zhidao.baidu.com/search?*
+*://*.baidu.com/s?word=*
 *://*.vvzixun.com/*
 *://*.uonfu.com/*
 *://*.1r1g.com/*
@@ -305,3 +307,9 @@
 *://*.programminghunter.com/*
 *://*.gushiciku.cn/*
 *://*.freesion.com/*
+
+
+# 2022-04-22
+*://*.zditect.com/*
+*://*.cxywk.com/*
+*://*.olzl.net/*
