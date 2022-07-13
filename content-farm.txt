@@ -361,3 +361,8 @@
 *://*.codeczz.com/*
 *://*.51yue.net/*
 *://*.mp3stunes.com/*
+
+# 2022-07-13
+*://*.1r1g.cn/*
+*://m.toutiao.com/search?keyword=*
+*://*.zhilian.host/*
