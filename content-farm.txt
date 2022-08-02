@@ -8,6 +8,7 @@
 *://*.huaweicloud.com/theme/*
 *://githubhelp.com/*
 *://githubplus.com/*
+*://wenjiangs.com/*
 
 # 下面这条规则不确定是否包含正常文章
 *://www.huaweicloud.com/articles/*
